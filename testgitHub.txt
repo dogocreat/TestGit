@@ -1,2 +1,6 @@
 dsada
 asdada
+
+
+
+own and www-data open
