@@ -1,0 +1,10 @@
+<table>
+    <tr *ngFor=" let titleName of titleArr">
+        <td>
+            {{titleName}}
+        </td>
+        <td>
+            <input type="text" [(ngModel)]="sync" />{{sync}}
+        </td>
+    </tr>
+</table>
